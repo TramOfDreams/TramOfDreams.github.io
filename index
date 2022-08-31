@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+<title>Cахалыы кылабатыыра аттарыыта</title>
+<meta name="keywords" content="Якутский, Саха, шрифт, раскладка клавиатуры, sakha fonts, word, Якутия, якутский язык, сахалыы, sakha, yakutian">
+<style>
+	body {background-color: #FFFFCC; }
+	div {width: 600px; max-width: 90%; min-width: 50%;  padding: 10px; margin: auto; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+	p {text-align: justify; text-indent: 25px}
+	.bottom {text-align: center; font-size: smaller}
+	.links {text-align: center;}
+</style>
+</head>
+
+<body>
+	<div> 
+<h2 align="center"><b>Мир Вашему дому! Да посмотрит на Вас Солнце и улыбнется!</b></h2>
+<h3 align="center">Установка якутской раскладки клавиатуры</h3>
+<p>Это не так трудно как кажется. Здесь есть пошаговые инструкции, как настроить или установить дополнительную раскладки клавиатуры, чтоб писать якутскими буквами (например, чтобы не было "УОРУУ" вместо "ҮӨРҮҮ" или "ЕБУГЭЛЭР" вместо "ӨБҮГЭЛЭР"):
+      <ul>
+<li><a href="mobsakha.html">Для пользователей Google Android</a></li><br>
+<li><a href="https://itunes.apple.com/ru/app/akutskaa-klaviatura-sahalyy/id1065224018?l=en">Для пользователей Apple iPhone, iPad от Андрея Фетисова</a></li><br>
+<li><a href="http://sakhatyla.ru/blogs/news/swiftkey-ios-sakha">Клавиатура SwiftKey (Подходит и для Андроид и на iOS) отныне тоже поддерживает якутский язык </a></li><br>
+<li><a href="keyb_w7.htm">Для пользователей Win Vista/7/8/10/11 </a></li><br>
+<li><a href="keyboard.htm">Для пользователей Win 2000/XP/2003</a></li><br>
+<li><a href="keyboard98.htm">Для пользователей Win 95/98/ME</a></li><br>
+<li><a href="mac_os.html">Для пользователей Apple Mac OS <strong>NEW!</strong></a></li>
+</ul>
+<p>Вы можете сами сделать свою раскладку для виндоус, используя <a href="https://www.microsoft.com/en-us/download/details.aspx?id=102134">бесплатную программу от Microsoft - Keyboard Layout Creator </a></p>
+<p><a href="to_uni04.bas">Здесь</a> находится  макрос для транскодирования текстов из различных ранее существовавших кодировок якутского языка в юникод. <a href="http://www.cybersakha.org/psevdo-ykt">Здесь</a> он оформлен в online.</p>
+<p><a href="fonts/word_macros.zip">Здесь</a> находится статья, описывающая методы ввода диакритических знаков (например, черточку над буквой).</p>
+<p><a href="sakha_calend.html">Здесь</a> находится статья, описывающая методы включения якутского формата даты операционной системы Windows 7 и гаджета "календарь" на якутском.</p>
+</div>
+	<div class="links">
+<a href="http://sakhatyla.ru/">Русско-якутский он-лайн словарь sakhatyla.ru</a><br><br>
+<a href="https://www.facebook.com/groups/1634616600102165/">Сахалыы кэпсээннэр</a><br><br>
+<a href="sarsn.html">"Сарсын-сарсын сарсыарда" Сергей Зверев - Кыыл Уолун айымньыта уонна бэйэтин толоруута</a><br><br>
+<a href="murun_j.html">Мурун ый (&#1162;) дор&#1173;оонноох тыллар</a>
+</div>
+	<div class="bottom">
+<br>Если что непонятно, связывайтесь с Bert Jickty (Яков Александров). E-mail: <a href="mailto:bertjickty@yandex.ru">bertjickty@yandex.ru</a>. Whatsapp tel.: +7 964 4222787 <br></div>
+<div align="center">
+<a href="http://pages.ykt.ru/dups"><img src="pictures/dups.gif" height="26" alt="Дапсы"></a>&nbsp;
+<a href="http://diaspora.sakhaopenworld.org/"><img src="pictures/doydu.png" height="30" border="0" alt="САха Диаспора"></a>&nbsp;
+<a href="http://www.baayaga.narod.ru"><img src="pictures/bajaga.jpg" height="30" border="0" alt="Баайаҕа"></a>&nbsp;
+<a href="http://sakhatyla.ru/"><img src="pictures/sakhatyla.GIF" border="1" height="30" alt="Саха тыла"></a>
+<a href="http://forum.ykm.ru/index.php?showforum=78"><img src="pictures/ykmbanner.gif" border="1" height="30" alt="YKM"></a>
+<a href="http://kyym.ru/"><img src="pictures/kyym.GIF" border="1" height="30" alt="Кыым"></a>
+<a href="http://uhhan.ru/"><img src="pictures/uhhan.gif" border="1" height="30" alt="Уххан"></a>	
+
+</div>
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=23949697&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/23949697/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="23949697" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   var z = null;m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(23949697, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/23949697" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
